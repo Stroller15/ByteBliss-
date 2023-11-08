@@ -4,7 +4,7 @@
     "description": "a blog site",
     "main": "server.js",
     "scripts": {
-        "start": "nodemon server.js "
+        "start": "node server.js "
     },
     "keywords": [],
     "author": "Shubham Verma",

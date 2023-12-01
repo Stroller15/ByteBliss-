@@ -1,29 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap&family=Hammersmith+One&family=Londrina+Solid:wght@900&display=swap');
-.bg-planet-svg {
-    position: absolute;
-    top: 250px;
-    right: -205px;
-    z-index: -5;
-    width: 450px;
-}
-
-.bg-planet2-svg {
-    position: absolute;
-    bottom: -125px;
-    left: -180px;
-    z-index: -5;
-    width: 450px;
-    opacity: 0.8;
-}
-
-.bg-planet3-svg {
-    position: absolute;
-    top: -65px;
-    left: -170px;
-    z-index: -5;
-    width: 450px;
-    opacity: 0.8;
-}
 
 .story-card-wrapper {
     position: relative;

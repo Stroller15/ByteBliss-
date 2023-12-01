@@ -67,7 +67,7 @@ const Home = () => {
           {
             [...Array(6)].map(() => {
               return (
-                // theme dark :> default : light
+               
                 <SkeletonStory key={uuidv4()} />
               )
             })}
@@ -83,9 +83,6 @@ const Home = () => {
                 )
               }) : <NoStories />
             }
-            <img className="bg-planet-svg" src="planet.svg" alt="planet" />
-            <img className="bg-planet2-svg" src="planet2.svg" alt="planet" />
-            <img className="bg-planet3-svg" src="planet3.svg" alt="planet" />
 
           </div>
 

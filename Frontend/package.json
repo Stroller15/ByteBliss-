@@ -1,7 +1,7 @@
 {
     "name": "frontend",
     "version": "0.1.0",
-    "proxy": "https://v2-46nv.onrender.com",
+    "proxy": "http://localhost:5500",
     "private": true,
     "dependencies": {
         "@ckeditor/ckeditor5-build-classic": "^32.0.0",
@@ -22,7 +22,8 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "proxy": "https://v2-46nv.onrender.com"
     },
     "eslintConfig": {
         "extends": [
@@ -41,6 +42,5 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
-    },
-    "devDependencies": {}
+    }
 }

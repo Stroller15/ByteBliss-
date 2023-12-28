@@ -61,6 +61,7 @@
 <!-- Video -->
 https://github.com/Stroller15/Best-README-Template/assets/84174011/d0456c65-8346-46f2-9b15-262ea427301d
 
+<br>
 
 <p> Welcome to my MERN stack blog app! This application leverages MongoDB for data storage, Express.js for seamless server-side operations, React.js for a dynamic user interface, and Node.js for managing the backend. With this full-stack setup, users can effortlessly create, read, update, and delete blog posts. </p>
   
@@ -107,7 +108,6 @@ Ensures the application functions seamlessly across various mobile devices, prov
 
 <!-- Built With -->
 
-### Built With
 
 ## Built with
 

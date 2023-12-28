@@ -72,9 +72,6 @@ https://github.com/Stroller15/Best-README-Template/assets/84174011/d0456c65-8346
 
 <!-- Functionality of PROJECT -->
 ### Functionality
-I'm unable to directly display emojis. However, I can guide you on how to access them on your device.
-
-For example:
 
 🔐 **Authentication (Login and Signup):** <br>
 Enables users to securely sign up for new accounts and log in to access the platform using their unique credentials.
